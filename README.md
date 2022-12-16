@@ -9,17 +9,17 @@
 
 - 👨‍💻 Some of my notable projects are available at [delabi.github.io](https://delabi.github.io/)
 
-- 📝 I regularly write articles on: [delabi.github.io/blog](https://delabi.github.io/blog)
+- 📝 Soon I will write articles on: [delabi.github.io/blog](https://delabi.github.io/blog)
 
-- 💬 Ask me about **Full-stack** development with **JavaScript/Python, end-to-end testing, CI/CD** & **technical writing**
+- 💬 Ask me about **Full-stack** development with **Product Management, Android, JavaScript/Python, End-to-End testing, CI/CD** & **technical writing**
 
-- 📫 How to reach me **bwire.laban@gmail.com**
+- 📫 Reach me at **bwire.laban@gmail.com**
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/e/2PACX-1vQmL3ILcyA8m71c8IbzFHszlkhHQlwiRtnC_e4N8lzvAiR-PvFRo5-j2eEE3tkDLg/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev_elie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_elie" height="30" width="40" /></a>
+<a href="https://dev.to/delabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_elie" height="30" width="40" /></a>
 <a href="https://twitter.com/Delabi37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_elie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/laban-bwire-10aab429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ondiek-ochieng-2aaba4198" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3871407/laban-bwire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12943692" height="30" width="40" /></a>
