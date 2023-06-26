@@ -9,8 +9,6 @@
 
 - 👨‍💻 Some of my notable projects are available at [delabi.github.io](https://delabi.github.io/)
 
-- 📝 Soon I will write articles on: [delabi.github.io/blog](https://delabi.github.io/blog)
-
 - 💬 Ask me about **Full-stack** development with **Product Management, Android, JavaScript/Python, End-to-End testing, CI/CD** & **technical writing**
 
 - 📫 Reach me at **bwire.laban@gmail.com**
